@@ -1,0 +1,3 @@
+/home/alex/Desktop/OS/users
+/home/alex/Desktop/OS/input.txt
+/home/alex/Desktop/OS/output.txt
