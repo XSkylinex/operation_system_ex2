@@ -27,3 +27,5 @@ david,0
 ...
 for every uesr in /home/alex/Desktop/OS/users
 #for every uesr in /home/alex/Desktop/OS/users
+
+Score 100
