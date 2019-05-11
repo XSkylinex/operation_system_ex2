@@ -15,9 +15,7 @@ Getting configuration file:
 
 And checks the users' folder for their program
 
-
 send the parameter i have in the input.txt file to their program
-
 
 and print their output file
 
